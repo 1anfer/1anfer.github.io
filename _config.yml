@@ -1,4 +1,5 @@
 theme: minima
-minima:
-  nav_pages:
-    - about.md
+title: 1anfer
+description: way2share
+social_links:
+  github: 1anfer
