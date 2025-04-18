@@ -1,0 +1,4 @@
+- name: 首页
+  link: /
+- name: 关于
+  link: /about
